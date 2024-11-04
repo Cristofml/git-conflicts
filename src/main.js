@@ -1,2 +1,1 @@
-// Navbar
-const nav = document.getElementById('nav')
+console.log ('Hola Broder')
